@@ -219,7 +219,7 @@ function json_to_xml(json_obj) {
   
 }
 
-let json_obj = {name: "John", age: 30, city: "New York"};
+let json_obj = {name: "Pavel", age: 24, city: "Minsk"};
 console.log(json_to_xml(json_obj))
 json_to_xml(json_obj)
 ```
