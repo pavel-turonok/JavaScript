@@ -108,10 +108,6 @@ sq(3)
 ```
 3) Сделать функцию. На вход принимет 3 параметра (Ф,И,О). Вернёт JSON
 ```
-{"name":И,
- "surname":Ф,
- "middlename":О}
-
 function p_data(И,Ф,О){
 let persons_data = {
   "name":И,
